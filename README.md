@@ -1,2 +1,2 @@
 # APIDocs
-Start of API documentation
+https://github.com/amcollections/APIDocs/wiki
